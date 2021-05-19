@@ -1,7 +1,7 @@
-# Compiler-Construction
-Compiler construction work related ton regular expression, tokenization, left recursion and factoring
+# Compiler Construction
+Compiler construction work related ton regular expression, tokenization, left recursion and factoring.
 
-## Work
+## Topics Covered in Project
 - Regular Experssion 
 - Tokenization
 - left Recursion 
