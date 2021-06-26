@@ -26,5 +26,7 @@ Project is developed on java language.
 <img src="leftfactoring.PNG" alt="Left Factoring" />
 
 ## Left Recursion 
-<img src="leftRecurison.PNG" alt="Left Recursion " />
+<img src="leftRecurison.PNG" alt="Left Recursion" />
 
+## First and Follow 
+<img src="firstfollow.PNG" alt="First and Follow " />
