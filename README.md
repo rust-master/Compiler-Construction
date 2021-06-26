@@ -7,7 +7,7 @@ Project is developed on java language.
 ## Topics Covered in Project
 - Regular Experssion 
 - Tokenization
-- left Recursion 
+- Left Recursion 
 - Left Factoring
 - First and Follow
 
