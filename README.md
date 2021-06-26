@@ -22,8 +22,8 @@ Project is developed on java language.
 ## Tokenization
 <img src="tokeniation.PNG" alt="Tokenization" />
 
-## Regular Experssion
-<img src="Regular.PNG" alt="Regular Experssion" />
+## Left Recursion 
+<img src="leftRecurison.PNG" alt="Left Recursion " />
 
 ## Regular Experssion
 <img src="Regular.PNG" alt="Regular Experssion" />
