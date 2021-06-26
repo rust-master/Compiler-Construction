@@ -9,6 +9,7 @@ Project is developed on java language.
 - Tokenization
 - left Recursion 
 - Left Factoring
+- First and Follow
 
 ## Tools
 - Netbeans IDE
